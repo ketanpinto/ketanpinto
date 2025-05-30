@@ -53,30 +53,6 @@
 
 ---
 
-### ✨ Featured Projects
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/ninjkaketan/Smart-Mirror">
-        <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100" /><br/>
-        <strong>Smart Mirror</strong>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/ninjkaketan/React-Recipe-AI">
-        <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="100" /><br/>
-        <strong>AI Recipe App</strong>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/ninjkaketan/Smart-Waste-System">
-        <img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="100" /><br/>
-        <strong>Smart Waste System</strong>
-      </a>
-    </td>
-  </tr>
-</table>
 
 ---
 
