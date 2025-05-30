@@ -5,11 +5,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Tech+Enthusiast;IoT+%7C+Web+%7C+AI+Developer;Lifelong+Learner+%7C+Problem+Solver" alt="Typing SVG" />
 </p>
 
-- 🌱 Currently learning **React.js, IoT projects, and ML for F1**
-- 📫 How to reach me: **ninjkaketan@gmail.com**
+- 🌱 Currently learning **React.js, Next.js, Machine Learning**
+- 📫 How to reach me: **ketanpinto16@gmail.com**
 - 💬 Ask me about: Raspberry Pi, Smart Mirrors, Full-Stack Web Dev, or Computer Systems
-- 📄 Check out my CV: [Link to your resume hosted on Google Drive or a personal site]
-- 🔭 I’m working on: 
+- 📄 Check out my CV: https://ketanpinto.vercel.app/
+- 🔭 I’m working on:
+  - Developing and Hosting Websites
   - Smart Mirror with MagicMirror
   - Smart Waste & Health Monitoring System
   - Recipe App with React + AI
@@ -37,6 +38,6 @@
 ### 🌍 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="blank"><img align="center" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin" height="30" width="30" /></a>
-  <a href="mailto:ninjkaketan@gmail.com"><img align="center" src="https://img.icons8.com/color/48/gmail-new.png" height="30" width="30" /></a>
+  <a href="https://www.linkedin.com/in/ketan-pinto-68085a240/" target="blank"><img align="center" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin" height="30" width="30" /></a>
+  <a href="mailto:ketanpinto16@gmail.com"><img align="center" src="https://img.icons8.com/color/48/gmail-new.png" height="30" width="30" /></a>
 </p>
