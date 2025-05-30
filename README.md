@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ketan</h1>
-<h3 align="center">🚀 Computer Systems Student | Middlesex University Dubai 🌍</h3>
+<h3 align="center">🚀 Computer Systems Engineering Student | Middlesex University Dubai 🌍</h3>
 
 
 
