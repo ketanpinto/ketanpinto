@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ketan</h1>
 <h3 align="center">🚀 Computer Systems Student | Middlesex University Dubai 🌍</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=500&lines=Tech+Enthusiast+🚀;IoT+%7C+Web+%7C+AI+Developer+🧠;Lifelong+Learner+%7C+Problem+Solver+🔧" alt="Typing SVG" />
-</p>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
