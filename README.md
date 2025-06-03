@@ -57,11 +57,11 @@
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ninjkaketan&theme=radical&margin-w=10&row=2&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ketanpinto&theme=radical&margin-w=10&row=2&column=4" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ninjkaketan&label=Profile+Views&color=brightgreen" alt="ninjkaketan" />
+  <img src="https://komarev.com/ghpvc/?username=ketanpinto&label=Profile+Views&color=brightgreen" alt="ninjkaketan" />
 </p>
